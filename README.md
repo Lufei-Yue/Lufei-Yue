@@ -2,7 +2,7 @@
 
 🎯 **GIS Specialist** | 🤖 **AI Solutions Engineer** | 📊 **Data Analyst**
 
-I am a data professional bridging the gap between **Geospatial Science** and **AI Automation**. With an MSc in GIS from the University of Leeds and a background in Geoinformatics, I specialise in applying data-driven approaches to real-world problems—from urban planning to e-commerce automation.
+I am a data professional bridging the gap between **Geospatial Science** and **AI Automation**. With an MSc in GIS from the University of Leeds and a background in Geoinformatics, I specialise in applying data-driven approaches to real-world problems, from urban planning to e-commerce automation.
 
 Currently, I am a **Board Member of GISphere**, leading global GIS education initiatives, and volunteering as an eCommerce Analyst at Oxfam.
 
