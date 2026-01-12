@@ -35,8 +35,11 @@ Currently, I am a **Board Member of GISphere**, leading global GIS education ini
 ## 📜 Certifications
 
 ✅ **Accredited Researcher** – Office for National Statistics (UK), May 2025
+
 ✅ **Alteryx Designer Core** – Alteryx, Jun 2025
+
 ✅ **Databases and SQL for Data Science** – IBM (Coursera), May 2025
+
 ✅ **Python for Data Science and AI** – IBM (Coursera), Feb 2025
 
 ---
