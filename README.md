@@ -1,38 +1,49 @@
-# 👋Hi, I'm Lufei Yue
+# 👋 Hi, I'm Lufei Yue
 
-🎯 GIS Enthusiast | 🗺 Data Analyst | 📊 Python & Spatial Analytics
+🎯 **GIS Specialist** | 🤖 **AI Solutions Engineer** | 📊 **Data Analyst**
 
-I am passionate about **Geographical Information Systems (GIS), spatial data analysis**, and applying data-driven approaches to real-world problems. With an MSc in GIS from the University of Leeds and a BSc in Geoinformatics, I specialize in:
+I am a data professional bridging the gap between **Geospatial Science** and **AI Automation**. With an MSc in GIS from the University of Leeds and a background in Geoinformatics, I specialise in applying data-driven approaches to real-world problems—from urban planning to e-commerce automation.
 
-✅ **Spatial Analysis & Geospatial Data Science** (ArcGIS, QGIS, Python, R, Alteryx)
+Currently, I am a **Board Member of GISphere**, leading global GIS education initiatives, and volunteering as an eCommerce Analyst at Oxfam.
 
-✅ **3D Modeling** (Agisoft Metashape, Smart3D)
+---
 
-✅ **Cloud Computing & Databases** (Azure, SQL)
+## 🛠 Technical Arsenal
 
-## 🚀 Projects & Research
+| Domain | Tools & Technologies |
+| :--- | :--- |
+| **Geospatial & 3D** | ArcGIS, QGIS, Agisoft Metashape, Smart3D, Global Mapper |
+| **Data Science & ETL** | Python, R, SQL, Alteryx, SPSS, Excel |
+| **AI & Automation** | LLM Integration, Dify Platform, Workflow Automation |
+| **Visualisation** | Power BI, Adobe Creative Cloud (Illustrator, Photoshop, Premiere) |
 
-🔹 [**Low Traffic Neighbourhoods & Traffic Accidents**](https://github.com/LufeiYue1/DID-LTN-London) – A Difference-in-Differences analysis in London
+---
 
-## 🌱 Currently Working On
+## 🚀 Experience & Impact
 
-🔸 Open-source GIS projects & policy-driven geospatial analysis
+### 🔹 Deego Technology | AI Solutions Engineer
+* Designed **AI-driven automation workflows** on the Dify platform for Anker’s e-commerce operations.
+* Developed **LLM modules** that increased reporting speed by **4x** and improved SEO campaign accuracy by **20%**.
 
-🔸 Enhancing my skills in machine learning for spatial data and geospatial visualization
+### 🔹 Research: Low Traffic Neighbourhoods (LTN)
+* **MSc Dissertation:** Conducted a Difference-in-Differences (DID) analysis on 500K+ STATS19 records in London.
+* **Impact:** Quantified a **10% reduction** in traffic accidents, providing data support for city planning decisions.
+* 📂 [**View Repository**](https://github.com/LufeiYue1/DID-LTN-London)
 
-## 🌱 Certification
+---
 
-🔹 Alteryx Designer Core, Alteryx (Jun 2025)
+## 📜 Certifications
 
-🔹 Accredited Researcher, Office for National Statistics, UK (May 2025)
+✅ **Accredited Researcher** – Office for National Statistics (UK), May 2025
+✅ **Alteryx Designer Core** – Alteryx, Jun 2025
+✅ **Databases and SQL for Data Science** – IBM (Coursera), May 2025
+✅ **Python for Data Science and AI** – IBM (Coursera), Feb 2025
 
-🔹 Certificate in Databases and SQL for Data Science, IBM (Coursera, May 2025)
-
-🔹 Certificate in Python for Data Science and AI, IBM (Coursera, Feb 2025)
-
+---
 
 ## 📫 Let’s Connect!
 
-🔗 **LinkedIn:** www.linkedin.com/in/lufei-yue  
+I am always open to discussing **geospatial analysis, AI integration, and open-source projects.**
 
-📧 **Email:** yuelufei1999@gmail.com  
+🔗 **LinkedIn:** [www.linkedin.com/in/lufei-yue](https://www.linkedin.com/in/lufei-yue)
+📧 **Email:** [yuelufei1999@gmail.com](mailto:yuelufei1999@gmail.com)
